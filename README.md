@@ -336,7 +336,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ## We love our contributors ❤️❤️
 
-Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
+Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute!
 <a href="https://github.com/pittcsc/Summer2024-Internships/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=pittcsc/Summer2024-Internships&columns=24&max=480" />
 </a>
